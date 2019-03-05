@@ -1,0 +1,39 @@
+body {
+    background-color: #555;
+    background-image: url("../images/castle-wall.jpg")
+}
+
+h3 {
+    color: rgb(116, 114, 1);
+    font-family: 'Averia Libre', cursive;
+}
+
+
+/* General styling for crystal images */
+.crystal-image {
+    width: 200px;
+    height: 200px;
+}
+
+
+/* Page header style */
+#page-header-text {
+    font-family: 'Averia Libre', cursive;
+    text-align: center;
+    font-size: 6em;
+    text-shadow: 4px 6px 10px rgb(214, 211, 1);
+    color: rgb(116, 114, 1);
+}
+
+ .wood-bg {
+     background-image: url(../images/wood-bg.jpg);
+     border: 1px solid rgb(48, 29, 0);
+     box-shadow: 8px 8px 15px rgba(0, 0, 0, .7);
+     /* height: 296px; */
+ }
+
+ .custom-win-loss, .custom-instruction-text {
+     background-color: rgb(59, 2, 0);
+     box-shadow: 8px 8px 15px rgba(0, 0, 0, .7);
+ }
+ 
