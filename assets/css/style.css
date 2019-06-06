@@ -3,11 +3,15 @@ body {
     background-image: url("../images/castle-wall.jpg")
 }
 
-h3 {
-    color: rgb(116, 114, 1);
+h3, p {
+    color: rgb(184, 181, 1);
     font-family: 'Averia Libre', cursive;
 }
 
+.intro-text {
+    font-size: 20px;
+    color: rgb(184, 181, 1);
+}
 
 /* General styling for crystal images */
 .crystal-image {
